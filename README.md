@@ -1,7 +1,7 @@
 # TFG-Reverse-Game-of-Life
 
 
-#######################################################################
+#####################################################################
 
 ## Licencia
 
@@ -9,7 +9,7 @@
 Este repositorio está disponible únicamente para fines académicos y de revisión por el tribunal del TFG.  
 No está permitido su uso, copia, redistribución ni modificación sin consentimiento previo y por escrito.
 
-#######################################################################
+#####################################################################
 
 Repositorio del Trabajo Fin de Grado "Predicción del Estado Inicial en el Juego de la Vida de Conway", por Ángel Fernández Caravaca. Aquí encontraremos:
 
