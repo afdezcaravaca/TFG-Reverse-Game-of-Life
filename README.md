@@ -17,6 +17,8 @@ Repositorio del Trabajo Fin de Grado "Predicción del Estado Inicial en el Juego
 
 **Contador:** Jupyter Notebook del contador de tableros iniciales asociados a un tablero final.
 
+**Delta 2 y 4:** resultados para las diferentes propuestas sobre estas deltas.
+
 **Gráficas Teoría:** Scripts para la creación de gráficas mostradas en la memoria del TFG.
 
 **Modelo V1 Reverse:** Jupyter Notebooks para propuesta de GoL inverso donde se implementa el modelo V1 delta = 1 de referencia repetidas veces para realizar predicciones sobre las demás deltas.
